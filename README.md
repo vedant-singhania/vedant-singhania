@@ -6,7 +6,7 @@
 name               = "Vedant Singhania"
 location           = "🇨🇦"
 occupation         = "Senior Backend / AWS Engineer"
-company            = "Kablamo Pty Ltd."
+company            = "Adonis.io (NYC)"
 email              = "vedantsinghania1990@gmail.com"
 personality_type   = "ENTP"
 hobbies            = "Yoga, Gardening, Calisthenics, Painting, Travelling"
